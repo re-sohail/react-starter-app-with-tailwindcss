@@ -1,4 +1,3 @@
-import { Button } from '@/components/ui/button';
 import React from 'react';
 
 function NotFoundPage() {
@@ -10,4 +9,4 @@ function NotFoundPage() {
   );
 }
 
-export { NotFoundPage };
+export default NotFoundPage;
